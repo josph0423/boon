@@ -46,7 +46,7 @@ input {
   text-align: center;
 }
 
-#button {
+.btn {
   display: inline-block;
   padding: 6px 12px;
   margin-bottom: 0;

@@ -122,6 +122,7 @@ function showMenu() {
 
 function menu() {
 	showMenu();
+	$(".button").mouseup(playing());
 }
 
 
